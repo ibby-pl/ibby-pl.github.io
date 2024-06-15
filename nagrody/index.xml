@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nagrodies on Sekcja Polska IBBY</title>
+    <link>/nagrody/</link>
+    <description>Recent content in Nagrodies on Sekcja Polska IBBY</description>
+    <generator>Hugo</generator>
+    <language>pl</language>
+    <lastBuildDate>Sun, 29 Nov 2020 17:15:00 +0200</lastBuildDate>
+    <atom:link href="/nagrody/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Medal Themersonów</title>
+      <link>/nagrody/medal/</link>
+      <pubDate>Sun, 29 Nov 2020 17:15:00 +0200</pubDate>
+      <guid>/nagrody/medal/</guid>
+      <description>Medal Themersonów Medal Themersonów (od 2018 roku, wcześniej Medal Polskiej Sekcji IBBY) przyznawany jest przez nas za całokształt działalności twórczej, najwybitniejszym polskim autorom i ilustratorom książek dla dzieci. Są to nasze polskie odpowiedniki Medali im. Hansa Christiana Andersena, tak zwanych „Małych Nobli”, które przyznaje światowe kuratorium IBBY w Bazylei.&#xA;Medale Polskiej Sekcji IBBY za całokształt twórczości otrzymali dotychczas:</description>
+    </item>
+  </channel>
+</rss>

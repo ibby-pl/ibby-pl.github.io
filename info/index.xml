@@ -1,85 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Infos on My New Hugo Site</title>
-    <link>http://example.org/info/</link>
-    <description>Recent content in Infos on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 02 Oct 2016 19:13:58 +0000</lastBuildDate>
-    
-	<atom:link href="http://example.org/info/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <title>Infoes on Sekcja Polska IBBY</title>
+    <link>/info/</link>
+    <description>Recent content in Infoes on Sekcja Polska IBBY</description>
+    <generator>Hugo</generator>
+    <language>pl</language>
+    <lastBuildDate>Tue, 11 Aug 2020 11:51:49 +0200</lastBuildDate>
+    <atom:link href="/info/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>IBBY – Misja i historia</title>
-      <link>http://example.org/info/misja-i-historia/</link>
-      <pubDate>Sun, 02 Oct 2016 19:13:58 +0000</pubDate>
-      
-      <guid>http://example.org/info/misja-i-historia/</guid>
-      <description>IBBY (International Board on Books for Young People) to międzynarodowa organizacja non-profit zajmująca się promocją literatury dziecięcej i młodzieżowej. Siedzibą organizacji jest Bazylea w Szwajcarii.
-Organizacja została założona w Zurychu w 1953 roku. Obecnie składa się z 76 sekcji działających w różnych państwach na świecie. Polska sekcja istnieje od 1973 r.
-IBBY zobowiązała się do przestrzegania Konwencji o Prawach Dziecka (ratyfikowana przez ONZ w 1990 r.), która m.in. przyznaje dzieciom prawo do kształcenia i dostępu do informacji.</description>
+      <title>Nasi Partnerzy</title>
+      <link>/info/nasi-partnerzy/</link>
+      <pubDate>Tue, 11 Aug 2020 11:51:49 +0200</pubDate>
+      <guid>/info/nasi-partnerzy/</guid>
+      <description></description>
     </item>
-    
+    <item>
+      <title>IBBY – Misja i Historia</title>
+      <link>/info/misja-i-historia/</link>
+      <pubDate>Sun, 02 Oct 2016 19:13:58 +0000</pubDate>
+      <guid>/info/misja-i-historia/</guid>
+      <description>IBBY (International Board on Books for Young People) to międzynarodowa organizacja non-profit zajmująca się promocją literatury dziecięcej i młodzieżowej. Siedzibą organizacji jest Bazylea w Szwajcarii.&#xA;Organizacja została założona w Zurychu w 1953 roku. Obecnie składa się z 76 sekcji działających w różnych państwach na świecie. Polska sekcja istnieje od 1973 r.&#xA;IBBY zobowiązała się do przestrzegania Konwencji o Prawach Dziecka (ratyfikowana przez ONZ w 1990 r.), która m.in. przyznaje dzieciom prawo do kształcenia i dostępu do informacji.</description>
+    </item>
     <item>
       <title>Lista Honorowa IBBY</title>
-      <link>http://example.org/info/lista-honorowa-ibby/</link>
+      <link>/info/lista-honorowa-ibby/</link>
       <pubDate>Fri, 22 Feb 2013 22:08:39 +0000</pubDate>
-      
-      <guid>http://example.org/info/lista-honorowa-ibby/</guid>
-      <description>Lista Honorowa jest jedną z form promocji literatury dziecięcej, prowadzonej przez IBBY. Co dwa lata wpisywane są na tę listę najlepsze nowości, promujące autorów, ilustratorów i tłumaczy z krajów, będących członkami IBBY.
-Jest to jedna z najbardziej efektywnych i wszechstronnych dróg dotarcia do wielu osób z informacją o dobrej książce.
-Tytuły w powyższych trzech kategoriach nominują poszczególne narodowe sekcje. Kryterium wyboru jest wysoki poziom literacki i artystyczny, a także uniwersalne przesłanie, dające książce możliwość i szansę zaistnienia na szerokim rynku.</description>
+      <guid>/info/lista-honorowa-ibby/</guid>
+      <description>Lista Honorowa jest jedną z form promocji literatury dziecięcej, prowadzonej przez IBBY. Co dwa lata wpisywane są na tę listę najlepsze nowości, promujące autorów, ilustratorów i tłumaczy z krajów, będących członkami IBBY.&#xA;Jest to jedna z najbardziej efektywnych i wszechstronnych dróg dotarcia do wielu osób z informacją o dobrej książce.&#xA;Tytuły w powyższych trzech kategoriach nominują poszczególne narodowe sekcje. Kryterium wyboru jest wysoki poziom literacki i artystyczny, a także uniwersalne przesłanie, dające książce możliwość i szansę zaistnienia na szerokim rynku.</description>
     </item>
-    
-    <item>
-      <title>Medale Polskiej Sekcji IBBY</title>
-      <link>http://example.org/info/medale-polskiej-sekcji-ibby/</link>
-      <pubDate>Fri, 22 Feb 2013 22:07:26 +0000</pubDate>
-      
-      <guid>http://example.org/info/medale-polskiej-sekcji-ibby/</guid>
-      <description>Medale przyznawane są przez nas za całokształt działalności twórczej, najwybitniejszym polskim autorom i ilustratorom książek dla dzieci. Są to nasze polskie odpowiedniki Medali im. Hansa Christiana Andersena, tak zwanych &amp;#8222;Małych Nobli&amp;#8221;, które przyznaje światowe kuratorium IBBY w Bazylei. Medale Polskiej Sekcji IBBY za całokształt twórczości otrzymali dotychczas:
- 2000 &amp;#8211; Krystyna Siesicka (literatura) i Olga Siemaszko (grafika) 2001 &amp;#8211; Joanna Kulmowa (literatura) i Zdzisław Witwicki (grafika) 2002 &amp;#8211; Edmund Niziurski (literatura) i Józef Wilkoń (grafika) 2003 &amp;#8211; Wanda Chotomska (literatura) i Janusz Stanny (grafika) 2004 &amp;#8211; Ewa Nowacka (literatura) i Bohdan Butenko (grafika) 2005 &amp;#8211; Joanna Papuzińska (literatura) i Adam Kilian (grafika) 2006 &amp;#8211; Marta Tomaszewska (literatura) i Elżbieta Gaudasińska (grafika) 2007 &amp;#8211; Ludwik Jerzy Kern (literatura) i Teresa Wilbik (grafika) 2008 &amp;#8211; Małgorzata Musierowicz (literatura) i Elżbieta i Marian Murawscy (grafika) 2009 &amp;#8211; Maria Ewa Letki (literatura) i Maria Ekier (grafika) 2010 &amp;#8211; Maciej Wojtyszko (literatura) i Andrzej Strumiłło (grafika) 2011 &amp;#8211; Anna Onichimowska (literatura) i Stasys Eidigrevicius (grafika) 2012 &amp;#8211; Liliana Bardijewska (literatura) i Krystyna Lipka-Sztarbałło (grafika) 2013 &amp;#8211; Zofia Beszczyńska (literatura) i Bożena Truchanowska (grafika) 2014 &amp;#8211; Małgorzata Strzałkowska (literatura) i Maria Uszacka (ilustracja) 2016 &amp;#8211; Krystyna Michałowska (ilustracja)  &amp;nbsp;</description>
-    </item>
-    
     <item>
       <title>Książka Roku</title>
-      <link>http://example.org/info/nagroda-polskiej-sekcji-ibby-ksiazka-roku/</link>
+      <link>/info/nagroda-polskiej-sekcji-ibby-ksiazka-roku/</link>
       <pubDate>Fri, 22 Feb 2013 21:49:45 +0000</pubDate>
-      
-      <guid>http://example.org/info/nagroda-polskiej-sekcji-ibby-ksiazka-roku/</guid>
-      <description>Nagroda Polskiej Sekcji IBBY &amp;#8211; &amp;#8222;Książka Roku&amp;#8221; Celem konkursu, zgodnie ze statutem międzynarodowego stowarzyszenia IBBY, jest promocja wartościowej literacko i artystycznie książki dla dzieci. Konkurs realizowany jest co roku. Nagradzani są współcześnie żyjący rodzimi twórcy. Polska edycja konkursu to odpowiednik podobnych, realizowanych przez narodowe sekcje IBBY. Konkurs nie dotyczy podręczników oraz literatury popularno-naukowej. Odnosi się wyłącznie do książek opublikowanych w Polsce. Weź udział w edycji 2017  Prosimy o zapoznanie się z Regulaminem tegorocznej edycji konkursu: REGULAMIN_KONKURSU_KR_2017_PS IBBY</description>
+      <guid>/info/nagroda-polskiej-sekcji-ibby-ksiazka-roku/</guid>
+      <description>Nagroda Polskiej Sekcji IBBY – „Książka Roku” Celem konkursu, zgodnie ze statutem międzynarodowego stowarzyszenia IBBY, jest promocja wartościowej literacko i artystycznie książki dla dzieci. Konkurs realizowany jest co roku. Nagradzani są współcześnie żyjący rodzimi twórcy. Polska edycja konkursu to odpowiednik podobnych, realizowanych przez narodowe sekcje IBBY. Konkurs nie dotyczy podręczników oraz literatury popularno-naukowej. Odnosi się wyłącznie do książek opublikowanych w Polsce.&#xA;Prosimy o zapoznanie się z Regulaminem tegorocznej edycji konkursu: REGULAMIN_KONKURSU_KR_2017_PS IBBY</description>
     </item>
-    
     <item>
       <title>Kim Jesteśmy</title>
-      <link>http://example.org/info/kim-jestesmy/</link>
+      <link>/info/kim-jestesmy/</link>
       <pubDate>Fri, 22 Feb 2013 20:32:33 +0000</pubDate>
-      
-      <guid>http://example.org/info/kim-jestesmy/</guid>
-      <description>Szanowni Państwo! Serdecznie witamy na stronie internetowej Polskiej Sekcji IBBY – Stowarzyszenia Przyjaciół Książki dla Młodych. Mamy nadzieję, że znajdziecie tu Państwo wszystkie informacje, które przybliżą Wam naszą działalność.
-IBBY (International Board on Books for Young People) – jest międzynarodową organizacją non-profit, zajmującą się promocją literatury dziecięcej i młodzieżowej. Została założona w Zurychu w 1953. Obecnie składa się z 70 sekcji działających w różnych państwach na świecie. Nasza, polska sekcja istnieje od 1973 roku.</description>
+      <guid>/info/kim-jestesmy/</guid>
+      <description>Szanowni Państwo! Serdecznie witamy na stronie internetowej Polskiej Sekcji IBBY – Stowarzyszenia Przyjaciół Książki dla Młodych. Mamy nadzieję, że znajdziecie tu Państwo wszystkie informacje, które przybliżą Wam naszą działalność.&#xA;IBBY (International Board on Books for Young People) – jest międzynarodową organizacją non-profit, zajmującą się promocją literatury dziecięcej i młodzieżowej. Została założona w Zurychu w 1953. Obecnie składa się z 70 sekcji działających w różnych państwach na świecie. Nasza, polska sekcja istnieje od 1973 roku.</description>
     </item>
-    
     <item>
       <title>Statut PS IBBY</title>
-      <link>http://example.org/info/statut/</link>
+      <link>/info/statut/</link>
       <pubDate>Fri, 22 Feb 2013 20:32:33 +0000</pubDate>
-      
-      <guid>http://example.org/info/statut/</guid>
-      <description>Statut Stowarzyszenia Przyjaciół Książki dla Młodych (Polskiej Sekcji IBBY) Rozdział I
-Postanowienia ogólne § 1. Terenem działalności Stowarzyszenia Przyjaciół Książki dla Młodych, zwanego dalej Stowarzyszeniem, jest obszar Rzeczypospolitej Polskiej, a siedzibą Warszawa. § 2. Stowarzyszenie jest organizacją zarejestrowaną, działającą na podstawie obowiązującego prawa o stowarzyszeniach i posiada osobowość prawną. § 3. Stowarzyszenie jest polską sekcją narodową Międzynarodowej Rady do Spraw Książki dla Młodych (International Board on Books for Young People – w skrócie IBBY).</description>
+      <guid>/info/statut/</guid>
+      <description>Statut Stowarzyszenia Przyjaciół Książki dla Młodych (Polskiej Sekcji IBBY) Rozdział I Postanowienia ogólne § 1. Terenem działalności Stowarzyszenia Przyjaciół Książki dla Młodych, zwanego dalej Stowarzyszeniem, jest obszar Rzeczypospolitej Polskiej, a siedzibą Warszawa.&#xA;§ 2. Stowarzyszenie jest organizacją zarejestrowaną, działającą na podstawie obowiązującego prawa o stowarzyszeniach i posiada osobowość prawną.&#xA;§ 3. Stowarzyszenie jest polską sekcją narodową Międzynarodowej Rady do Spraw Książki dla Młodych (International Board on Books for Young People – w skrócie IBBY).</description>
     </item>
-    
     <item>
       <title>Zarząd PS IBBY</title>
-      <link>http://example.org/info/zarzad/</link>
+      <link>/info/wladze/</link>
       <pubDate>Fri, 22 Feb 2013 20:32:33 +0000</pubDate>
-      
-      <guid>http://example.org/info/zarzad/</guid>
-      <description>Zarząd W aktualnej kadencji władze PS IBBY stanowią: Prezeska Anna Maria Czernow Wiceprezeska Tatiana Audycka-Szatrawska Sekretarzyni Monika Hałucha Skarbniczka Beata Kowalska- Osadowska Członkini Zarządu Dorota Lipińska Główna Komisja Rewizyjna Maria Kulik Agnieszka Dobrowolska Grażyna Lewandowicz-Nosal  </description>
+      <guid>/info/wladze/</guid>
+      <description>Zarząd Prezeska Anna Maria Czernow Wiceprezeska Tatiana Audycka-Szatrawska Sekretarzyni Monika Hałucha Skarbniczka Beata Kowalska-Osadowska Członkini Zarządu Dorota Lipińska Główna Komisja Rewizyjna Maria Kulik Agnieszka Dobrowolska Grażyna Lewandowicz-Nosal </description>
     </item>
-    
+    <item>
+      <title></title>
+      <link>/info/medale-polskiej-sekcji-ibby/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/info/medale-polskiej-sekcji-ibby/</guid>
+      <description>title: Medale Polskiej Sekcji IBBY author: admin date: 20130222T22:07:26+00:00&#xA;2000 - Krystyna Siesicka (literatura) i Olga Siemaszko (grafika) 2001 - Joanna Kulmowa (literatura) i Zdzisław Witwicki (grafika) 2002 - Edmund Niziurski (literatura) i Józef Wilkoń (grafika) 2003 - Wanda Chotomska (literatura) i Janusz Stanny (grafika) 2004 - Ewa Nowacka (literatura) i Bohdan Butenko (grafika) 2005 - Joanna Papuzińska (literatura) i Adam Kilian (grafika) 2006 - Marta Tomaszewska (literatura) i Elżbieta Gaudasińska (grafika) 2007 - Ludwik Jerzy Kern (literatura) i Teresa Wilbik (grafika) 2008 - Małgorzata Musierowicz (literatura) i Elżbieta i Marian Murawscy (grafika) 2009 - Maria Ewa Letki (literatura) i Maria Ekier (grafika) 2010 - Maciej Wojtyszko (literatura) i Andrzej Strumiłło (grafika) 2011 - Anna Onichimowska (literatura) i Stasys Eidigrevicius (grafika) 2012 - Liliana Bardijewska (literatura) i Krystyna LipkaSztarbałło (grafika) 2013 - Zofia Beszczyńska (literatura) i Bożena Truchanowska (grafika) 2014 - Małgorzata Strzałkowska (literatura) i Maria Uszacka (ilustracja) 2016 - Krystyna Michałowska (ilustracja) </description>
+    </item>
+    <item>
+      <title>Dołącz do nas</title>
+      <link>/info/dolacz-do-nas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/info/dolacz-do-nas/</guid>
+      <description>Dołącz do nas Aby wstąpić w szeregi Polskiej Sekcji IBBY, wystarczy wypełnić wybraną deklarację i wysłać ją na adres podany w formularzu deklaracji.&#xA;Składkę członkowską w wysokości 100 zł należy wpłacać na rachunek bankowy.</description>
+    </item>
+    <item>
+      <title>Kontakt</title>
+      <link>/info/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/info/kontakt/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
